@@ -1,5 +1,8 @@
 Vehicle_Challenge8
 
+Complete coding App Description:
+Coding App --Describes how to get details of the vehicles. If a Car, Truck, or Motorbike is selected. It returns the details of the vehicle. The details include type, model, year, vin#, right turn, left turn, and wheelie (this option is only for motorbike). There is an option to exit the app which allows you to exit or get details of another vehicle.
+
 To run the programming code:
 
 In the new terminal go to Cli.ts file and open the terminal integrated.
