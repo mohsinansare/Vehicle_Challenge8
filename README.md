@@ -55,4 +55,5 @@ WHEN I complete the process of performing an action
 THEN I can perform additional actions until I choose to exit
 
 The walkthrough video link for the Vehicle_Challenge8:
+https://studio.youtube.com/video/K6Jfz2-ewGk/edit
 
