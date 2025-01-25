@@ -7,7 +7,7 @@ Coding App --Describes how to get details of the vehicles. If a Car, Truck, or M
 User Story
 
 As a developer
-I want to update an existing application to include additional vehicle types
+I want to update an existing application to include additional vehicle types.
 So that I can comprehend and work with existing code bases.
 
 Acceptance Criteria:
